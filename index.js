@@ -2,7 +2,7 @@ var options = {
     "key": "rzp_test_VSH3xMB5QD2Qqe", 
     "amount": "50000", 
     "currency": "INR",
-    "name": "The Sparks Foundation",
+    "name": "The Payment Gateway",
     "description": "Test Transaction",
     "image":"https://internship.thesparksfoundation.info/assests/img/logo.png",
     "order_id": "order_I6XH5bDWGnaRhJ", 
